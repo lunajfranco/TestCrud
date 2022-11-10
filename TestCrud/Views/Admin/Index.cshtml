@@ -1,0 +1,49 @@
+﻿@model List<ApplicationCore.Entities.tUsers>
+@{
+    ViewBag.Tittle = "CRUD";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p class="text-danger" style="text-align:center">@ViewBag.ErrorElimnar</p>
+
+<div class="row-cols-sm-12" style="text-align:right; padding:5px;">
+    <a href="~/Admin/Crear" class="btn btn-primary">Nuevo</a>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <tr>
+                <th>#</th>
+                <th>Usuario</th>
+                <th>Constraseña</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Nro Documento</th>
+                <th>Codigo de rol</th>
+                <th>Rol</th>
+                <th>sn_activo</th>
+                <th></th>
+            </tr>
+            @foreach (var oElemtno in Model)
+            {
+                <tr>
+                    <td>@oElemtno.cod_usuario</td>
+                    <td>@oElemtno.txt_user</td>
+                    <td>@oElemtno.txt_password</td>
+                    <td>@oElemtno.txt_nombre</td>
+                    <td>@oElemtno.txt_apellido</td>
+                    <td>@oElemtno.nro_doc</td>
+                    <td>@oElemtno.cod_rol</td>
+                    <td>@oElemtno.Rol.txt_desc</td>
+                    <td>@oElemtno.sn_activo</td>
+                    <td>
+                        <a class="btn btn-default" href="~/Admin/Editar/@oElemtno.cod_usuario">Editar</a>
+                        <a class="btn btn-danger" href="~/Admin/Eliminar/@oElemtno.cod_usuario">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+
+</div>

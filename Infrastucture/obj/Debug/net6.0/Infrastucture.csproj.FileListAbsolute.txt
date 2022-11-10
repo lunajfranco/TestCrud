@@ -1,0 +1,15 @@
+C:\Users\franc\source\repos\TestCrud\Infrastucture\bin\Debug\net6.0\Infrastucture.deps.json
+C:\Users\franc\source\repos\TestCrud\Infrastucture\bin\Debug\net6.0\Infrastucture.dll
+C:\Users\franc\source\repos\TestCrud\Infrastucture\bin\Debug\net6.0\Infrastucture.pdb
+C:\Users\franc\source\repos\TestCrud\Infrastucture\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\franc\source\repos\TestCrud\Infrastucture\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.AssemblyInfo.cs
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.csproj.CopyComplete
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.dll
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\refint\Infrastucture.dll
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\Infrastucture.pdb
+C:\Users\franc\source\repos\TestCrud\Infrastucture\obj\Debug\net6.0\ref\Infrastucture.dll
